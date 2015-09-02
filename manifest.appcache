@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# version 1
+index.html
+js/game.js
+css/main.css
+css/normalize.min.css
+img/transparent.gif
+img/cursor_ics.png
+img/bckg_image.png
+js/vendor/modernizr-2.6.2-respond-1.1.0.min.js
+js/vendor/jquery-1.10.1.min.js
